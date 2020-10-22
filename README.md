@@ -1,8 +1,22 @@
-### Hi there 👋
+<p align="center"><b>Hi :v:,</b> &nbsp; I'm</p>
+<h1 align="center"><a href="https://ajal333.github.io/" target="_blank">Ajal</a></h1>
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Ajal333&show_icons=true&theme=algolia&hide_border=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ajal333&theme=algolia&layout=compact" />
+    Developer | Student | Cricketer
+</p><br />
+
+<p> :postbox: &nbsp; Catch up with Me : &nbsp; 
+    <a href ="mailto:ajal.p1999@gmail.com"><img alt="Gmail" src="https://img.shields.io/badge/.-ajal.p1999@gmail.com-red?logo=gmail&style=flat" />
+    </a> &nbsp; 
+    <a href ="https://www.linkedin.com/in/ajal-p-95537a191/"><img alt="LinkedIn" src="https://img.shields.io/badge/.-Ajal-blue?logo=linkedin&style=flat" />
+    </a> &nbsp; 
+</p>
+
+## :bar_chart: &nbsp; My GitHub Stats
+<p align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ajal333&show_icons=true&theme=algolia&hide_border=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ajal333&theme=algolia&layout=compact" />
 </p><br /><hr />
+
 
 
 <!--
