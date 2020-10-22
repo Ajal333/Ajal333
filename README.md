@@ -11,7 +11,7 @@
     </a> &nbsp; 
 </p>
 
-## :bar_chart: &nbsp; My GitHub Stats
+## :bar_chart: &nbsp; "Stats for nerds":stuck_out_tongue_winking_eye:
 <p align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ajal333&show_icons=true&theme=algolia&hide_border=true" />
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ajal333&theme=algolia&layout=compact" />
