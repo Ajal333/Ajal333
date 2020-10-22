@@ -1,5 +1,8 @@
 ### Hi there 👋
-![Ajal's github stats](https://github-readme-stats.vercel.app/api?username=ajal333&show_icons=true&theme=radical)
+<p align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=nandan-unni&show_icons=true&theme=algolia&hide_border=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nandan-unni&theme=algolia&layout=compact" />
+</p><br /><hr />
 
 
 <!--
