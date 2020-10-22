@@ -1,6 +1,5 @@
 ### Hi there 👋
 ![Ajal's github stats](https://github-readme-stats.vercel.app/api?username=ajal333&show_icons=true&theme=radical)
-<img src='https://github-readme-stats.vercel.app/api?username=ajal333&&show_icons=true&title_color=fgffff&icon_color=fgffff&text_color=FFFFF&bg_color=0000'>
 
 
 <!--
