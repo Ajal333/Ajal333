@@ -17,6 +17,7 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ajal333&theme=algolia&layout=compact" />
 </p><br /><hr />
 
+<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ajal333&theme=cobalt" alt="Ajal" /></p>
 
 
 <!--
