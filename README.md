@@ -4,7 +4,7 @@
     Student | Developer | Cricketer
 </p><br />
 
-<p> :postbox: &nbsp; Catch up with Me : &nbsp; 
+<p> :postbox: &nbsp; Catch up with Me: &nbsp; 
     <a href ="mailto:ajapoos1999@gmail.com"><img alt="Gmail" src="https://img.shields.io/badge/.-ajapoos1999@gmail.com-red?logo=gmail&style=flat" />
     </a> &nbsp; 
     <a href ="https://www.linkedin.com/in/ajal-p-95537a191/"><img alt="LinkedIn" src="https://img.shields.io/badge/.-Ajal-blue?logo=linkedin&style=flat" />
