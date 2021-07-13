@@ -1,7 +1,7 @@
 <p align="center"><b>Hey :v:,</b> &nbsp; I'm</p>
 <h1 align="center"><a href="https://ajal333.github.io/" target="_blank">Ajal</a></h1>
 <p align="center">
-    Student | Developer | Cricketer
+    Developer | Cricketer
 </p><br />
 
 <p> :postbox: &nbsp; Catch up with Me: &nbsp; 
