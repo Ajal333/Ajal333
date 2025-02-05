@@ -5,19 +5,13 @@
 </p><br />
 
 <p> :postbox: &nbsp; Catch up with Me: &nbsp; 
-    <a href ="mailto:ajapoos1999@gmail.com"><img alt="Gmail" src="https://img.shields.io/badge/.-ajapoos1999@gmail.com-red?logo=gmail&style=flat" />
+    <a href ="mailto:ajal.p1999@gmail.com"><img alt="Gmail" src="https://img.shields.io/badge/.-ajal.p1999@gmail.com-red?logo=gmail&style=flat" />
     </a> &nbsp; 
-    <a href ="https://www.linkedin.com/in/ajal-p-95537a191/"><img alt="LinkedIn" src="https://img.shields.io/badge/.-Ajal-blue?logo=linkedin&style=flat" />
+    <a href ="https://www.linkedin.com/in/ajal/"><img alt="LinkedIn" src="https://img.shields.io/badge/.-Ajal-blue?logo=linkedin&style=flat" />
     </a> &nbsp; 
 </p>
 
-## :bar_chart: &nbsp; "Stats for nerds":stuck_out_tongue_winking_eye:
-<p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ajal333&show_icons=true&theme=algolia&hide_border=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ajal333&theme=algolia&layout=compact" />
-</p><br /><hr />
 
-<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ajal333&theme=cobalt" alt="Ajal" /></p>
 
 
 <!--
